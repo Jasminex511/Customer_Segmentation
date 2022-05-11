@@ -1,1 +1,1 @@
-# hello-world
+#### data.csv contains transactions of an e-commerce from 2010 to 2011. This notebook shows the process of an RFM analysis which consider how recently, how frequently a customer make a purchse and how much in total did the customer spend to determine the most valuable group of customers. The goal of this project is to make marketing more efficienct and help target the most loyal customers.
