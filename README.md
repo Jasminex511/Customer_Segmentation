@@ -33,12 +33,12 @@ Since the dataset we are using here is the customer historic transactions, so my
 
 * Python 3.7 is needed to run this project
 * Main Python libraries needed:
-** Pandas
-** Datetime
-** Seaborn
-** Matplotlib
-** Numpy
-** Scikit-learn
+  * Pandas
+  * Datetime
+  * Seaborn
+  * Matplotlib
+  * Numpy
+  * Scikit-learn
 * Software installed to run and execute a Jupyter Notebook
 
 ### Code
